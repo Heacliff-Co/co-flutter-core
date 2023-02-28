@@ -1,4 +1,4 @@
-# co-flutter-core
+# co_flutter_core
 
 Flutter package which contain the core file for one studio apps.
 
@@ -10,9 +10,9 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 dependencies:
   flutter:
     sdk:
-  co-flutter-core:
+  co_flutter_core:
     git:
-      url: https://github.com/Heacliff-Co/co-flutter-core.git
+      url: https://github.com/Heacliff-Co/co_flutter_core.git
       ref: main
 ```
 
